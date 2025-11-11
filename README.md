@@ -1,1 +1,1 @@
-- [color flipper] (https://shashikantharigela-dotcom.github.io/Task-02/color.html)
+- [color flipper] (https://shashikantharigela-dotcom.github.io/Task-02/index.html)
